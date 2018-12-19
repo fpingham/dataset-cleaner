@@ -15,6 +15,8 @@ Let's see a few examples in CIFAR. Found a duplicate? Delete away!
 ![](imgs/frog-duplicate-2.png)
 
 Just be careful that the images you are deleting are actual duplicates and not augmented images like this one:
+![](imgs/frog-duplicate-1.png)
+
 
 
 
