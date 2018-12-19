@@ -8,7 +8,7 @@ This project consists of a dataset cleaner in Jupyter Notebook with the followin
 
 Let's see an example in CIFAR. This doesn't look like a truck does it? Relabel away!
 
-![](imgs/not-truck.png))
+![](imgs/not-truck.png)
 
 - Image Duplicate Deleter: suggests potential duplicates in the dataset and gives the user the option to delete them (by Francisco Ingham)
 
