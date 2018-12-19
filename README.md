@@ -15,5 +15,4 @@ Let's see an example in CIFAR. This doesn't look like a truck does it? Relabel a
 Let's see a few examples in CIFAR. Found a duplicate? Delete it easily with the tool!
 
 ![](imgs/frog-duplicate-1.png)
-
 ![](imgs/frog-duplicate-2.png)
